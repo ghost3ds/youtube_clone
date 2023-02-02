@@ -9,7 +9,7 @@ import { TiArrowRepeat } from 'react-icons/ti';
 
 const Navbar = () => {
   return (
-    <div className="bg-[#232f3e] p-4 flex items-center justify-between md:px-8">
+    <div className="bg-[#131921] p-4 flex items-center justify-between md:px-8">
       {/* Left */}
       <div className="flex items-center shrink-0">
         <div className="h-10 flex">
